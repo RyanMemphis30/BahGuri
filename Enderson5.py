@@ -10,4 +10,4 @@ resposta = int(input('R: '))
 if(resposta == 45):
     print('Resposta coreta')
 else:
-    print('resposta incoreta')
+    print('resposta incoreta') 
